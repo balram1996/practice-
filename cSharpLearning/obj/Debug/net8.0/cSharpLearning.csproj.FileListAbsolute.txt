@@ -1,0 +1,14 @@
+D:\personal folder\cSharpLearning\bin\Debug\net8.0\cSharpLearning.exe
+D:\personal folder\cSharpLearning\bin\Debug\net8.0\cSharpLearning.deps.json
+D:\personal folder\cSharpLearning\bin\Debug\net8.0\cSharpLearning.runtimeconfig.json
+D:\personal folder\cSharpLearning\bin\Debug\net8.0\cSharpLearning.dll
+D:\personal folder\cSharpLearning\bin\Debug\net8.0\cSharpLearning.pdb
+D:\personal folder\cSharpLearning\obj\Debug\net8.0\cSharpLearning.GeneratedMSBuildEditorConfig.editorconfig
+D:\personal folder\cSharpLearning\obj\Debug\net8.0\cSharpLearning.AssemblyInfoInputs.cache
+D:\personal folder\cSharpLearning\obj\Debug\net8.0\cSharpLearning.AssemblyInfo.cs
+D:\personal folder\cSharpLearning\obj\Debug\net8.0\cSharpLearning.csproj.CoreCompileInputs.cache
+D:\personal folder\cSharpLearning\obj\Debug\net8.0\cSharpLearning.dll
+D:\personal folder\cSharpLearning\obj\Debug\net8.0\refint\cSharpLearning.dll
+D:\personal folder\cSharpLearning\obj\Debug\net8.0\cSharpLearning.pdb
+D:\personal folder\cSharpLearning\obj\Debug\net8.0\cSharpLearning.genruntimeconfig.cache
+D:\personal folder\cSharpLearning\obj\Debug\net8.0\ref\cSharpLearning.dll
